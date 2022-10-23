@@ -17,4 +17,8 @@ The plan of running an ice cream shop, serving surf bound to tourist. local and 
 The Analysis 
 To begin my analysis base of the weather in Awahoo.
 I imported my dependencies which will make it easy for my queries.
-When analyzing the results of the temperature data, I came to the conclusion that this business will be well set up in Oahu. The temperature data for June and December were very similar, meaning there should be plenty of good surfing and ice cream days throughout the year. W. Avy should feel confident about their business being located here. An additional query I would recommend would be one analyzing the precipitation in different months throughout the year in Oahu. I would also recommend a query analyzing the winds around Oahu to try to get a greater sense of what its effect is on the waves in Oahu.
+When analyzing the results of the temperature data, I came to the conclusion that this business will be well set up in Oahu. The temperature data for June and December were very similar, meaning there should be plenty of good surfing and ice cream days throughout the year. W. Avy should feel confident about their business being located here and be sure of profitable business. However, since the buisness will is not meant to be a temporary one i would suggest that we should run queries;
+
+a) Precipitation for all month of the year. This is to ascertain if other months of the year will be a profitable month and also to to analyse the number of month we can depend on in profit making or we would need to add addtional business that would thrive during such month like bubbble tea, warm meals and some indoor activities in Oahu.
+
+b) I would also recommend a query analyzing the winds around Oahu to try to get a greater sense of what its effect is on the waves in Oahu i.e areas affected by heavy wind.This analysis would help us in our choice of location for the business.
