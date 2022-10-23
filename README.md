@@ -3,6 +3,10 @@ The overview of this project is to analyze how well and profitable the business 
 
 Purpose
 The plan of running an ice cream shop, serving surf bound to tourist. local and also myself that will eventually settle there will be achievable if the right purpose is put in place. Making sure i have a strong business plan that would strive without running loss after huge investement by my investors.
+![alt text for screen readers](/path/to/image.png "Text to show on mouseover").
+
+
+![alt text for screen readers](/path/to/image.png "Text to show on mouseover").
 
 The Analysis 
 To begin my analysis base of the weather in Awahoo.
