@@ -8,6 +8,12 @@ The plan of running an ice cream shop, serving surf bound to tourist. local and 
 
 ![alt text for screen readers](https://github.com/DeloxyAdeola/Surfs_up/blob/main/December%20Temperature%20.png)"December Temperature")
 
+
+-The mean temperature of both months is warm and similar, with June being 74.94 and December being 71.04.
+-The max temperatures are also very similar, with June being 85 and December being 83.
+-The biggest difference between months is the minimum temperature. June's min temperature is 64, but December's is only 56.
+-The std for June is 3.26 while that of December is 3.75 with a differnce of 0.49.
+
 The Analysis 
 To begin my analysis base of the weather in Awahoo.
 I imported my dependencies which will make it easy for my queries.
