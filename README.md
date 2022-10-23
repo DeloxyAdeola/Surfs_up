@@ -6,7 +6,7 @@ The plan of running an ice cream shop, serving surf bound to tourist. local and 
 ![alt text for screen readers](https://github.com/DeloxyAdeola/Surfs_up/blob/main/June%20Temperature%201.png "June Temperature png")
 
 
-![alt text for screen readers](/path/to/image.png "Text to show on mouseover").
+![alt text for screen readers](https://github.com/DeloxyAdeola/Surfs_up/blob/main/December%20Temperature%20.png)"December Temperature")
 
 The Analysis 
 To begin my analysis base of the weather in Awahoo.
